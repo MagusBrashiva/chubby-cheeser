@@ -26,6 +26,14 @@
     <script>
       var container = document.querySelector("#unity-container");
       var canvas = document.querySelector("#unity-canvas");
+      // Force the game canvas to capture keyboard inputs when clicked
+      window.addEventListener("click", function() {
+          window.focus();
+      });
+      canvas.addEventListener("click", function() {
+          canvas.focus();
+      });
+
       var loadingBar = document.querySelector("#unity-loading-bar");
       var progressBarFull = document.querySelector("#unity-progress-bar-full");
       var fullscreenButton = document.querySelector("#unity-fullscreen-button");
