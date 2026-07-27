@@ -1,7 +1,7 @@
 # Chubby Cheeser Runner Game
 
 Play the live web version directly in your browser here: 
-👉 **[Click Here to Play the Game](https://magusbrashiva.github.io/chubby-cheeser/)**
+👉 **[Click Here to Play the Game](https://samplesite.fyi/game/chubby-cheeser.html/)**
 
 ## How to Play
 * **W, A, S, D** or **Arrow Keys**: Move and turn the player.
