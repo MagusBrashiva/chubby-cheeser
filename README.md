@@ -14,6 +14,6 @@ Play the live web version directly in your browser here:
 * **Game Over**: Run out of cheese and...well...
 
 ## How NOT to Play (keyboard required)
-* **Mobile Phones
-* **Tablets
-* **Game Consoles
+* **Mobile Phones**
+* **Tablets**
+* **Game Consoles**
