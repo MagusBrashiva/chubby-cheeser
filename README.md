@@ -1,4 +1,4 @@
-# Chubby Cheeser Runner Game
+# Chubby Cheeser
 
 Play the live web version directly in your browser here: 
 👉 **[Click Here to Play the Game](https://samplesite.fyi/game/chubby-cheeser.html/)**
