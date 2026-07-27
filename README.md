@@ -12,3 +12,8 @@ Play the live web version directly in your browser here:
    food, you may just become theirs! Any encounter with a cat will cost you a cheese wheel.
    Get hungry enough and you'll eat some cheese.
 * **Game Over**: Run out of cheese and...well...
+
+## How NOT to Play (keyboard required)
+* **Mobile Phones
+* **Tablets
+* **Game Consoles
