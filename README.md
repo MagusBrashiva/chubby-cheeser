@@ -10,4 +10,5 @@ Play the live web version directly in your browser here:
    from your total score. 
 * **Beware**: There are cats hanging around. If they see you scurry by for your favorite
    food, you may just become theirs! Any encounter with a cat will cost you a cheese wheel.
+   Get hungry enough and you'll eat some cheese.
 * **Game Over**: Run out of cheese and...well...
